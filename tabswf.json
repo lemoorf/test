@@ -7,7 +7,6 @@
   "default_app_launch_time": 2,
   "urls": "https://swf.smartnetplus.smartwood.me;smartnet+",
   "browser_home_page": "https://swf.smartnetplus.smartwood.me",
-  "browser_hide_toolbar": true,
   "browser_allow_search_from_address_bar": false,
   "browser_show_home_icon": false,
   "browser_show_refresh_icon": false,
