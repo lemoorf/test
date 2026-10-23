@@ -22,7 +22,7 @@
   "hide_menu_items": true,
   "automatic_update_time": "11:00",
   "allow_user_install_updates": false,
-  "automatic_config_download_frequency": 1440,
+  "automatic_config_download_frequency": 1,
   "disable_lock_screen": true,
   "connectivity_panel_enabled": true
 }
